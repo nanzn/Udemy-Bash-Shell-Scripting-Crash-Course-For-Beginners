@@ -44,3 +44,5 @@ cp 1.txt 2.txt mydir2
 
 ## Remove both directories ##
 rm -R mydir1 mydir2
+
+## END ##
